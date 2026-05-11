@@ -1,4 +1,4 @@
-<p align="center">This is a shortened version of README. You can<a href="https://github.com/Omegaplexx/Happwner">view the full version in source repository</a></p>
+<p align="center">This is a shortened version of README. You can <a href="https://github.com/Omegaplexx/Happwner">view the full version in source repository</a></p>
 
 # Happwner
 
