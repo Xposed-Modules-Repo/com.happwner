@@ -49,7 +49,7 @@ The app supports **Android 5.0+**.
 
 ## Acknowledgements
 
-Special thanks to [amurkanov](https://github.com/amurcanov) for the [Happ Decrypt RS](https://github.com/amurcanov/happ-decrypt-universal) project. Happwner uses it as the primary method for link decryption.
+Special thanks to [amurcanov](https://github.com/amurcanov) for the [Happ Decrypt RS](https://github.com/amurcanov/happ-decrypt-universal) project. Happwner uses it as the primary method for link decryption.
 
 ## Disclaimer
 
